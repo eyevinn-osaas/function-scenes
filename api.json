@@ -10,8 +10,7 @@
     }
   },
   "servers": [
-    { "url": "http://functions.eyevinn.technology/scenes", "description": "Production" },
-    { "url": "/", "description": "Local Development" }
+    { "url": "/", "description": "Default" }
   ],
   "paths": {
     "/api/v1": {
